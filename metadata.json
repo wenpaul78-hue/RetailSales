@@ -1,0 +1,5 @@
+{
+  "name": "Retail Sales",
+  "description": "A luxury goods sales interface replicating a mobile app experience with product listings, filtering, and search capabilities.",
+  "requestFramePermissions": []
+}
